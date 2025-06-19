@@ -49,6 +49,6 @@
 
 ### 📬 Let's Connect!
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/vivian-phung-088094235/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vivian-phung-088094235/)
 - 🌐 [Personal Website or Blog](https://www.instagram.com/vivianphung.tech/)
 - 📝 Open to collaborations, internships, and AI challenges!
